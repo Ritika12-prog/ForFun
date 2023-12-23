@@ -3,7 +3,8 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-color: #3713b8e2;
+    background-image: linear-gradient(to right,  #e74ebc 0%, #477ddc 51%,#a128d1 100%);
+   
 }
 
 #noButton {
