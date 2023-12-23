@@ -3,7 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 90vh;
-    background-image: linear-gradient(to right,  #e74ebc 0%, #477ddc 51%,#a128d1 100%);
+    background-image: linear-gradient(to right,  #fa1717 0%, #477ddc 51%,#f81a1a 100%);
    
 }
 
@@ -33,17 +33,19 @@ body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    margin-top: 50px;
+    margin-top: 60px;
     margin-left: 20px;
 }
 
 .btn {
-    background-image: linear-gradient(to right, #f6d365 0%, #fda085 51%);
-    color: white;
-    padding: 15px 32px;
+    background-image: linear-gradient(to right, #e542a494 0%, #8ff4ead3 51%);
+    color:rgb(245, 14, 214);
+    padding: 11px 32px;
     text-align: center;
     display: inline-block;
-    font-size: 16px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Nunito';
     margin: 4px 2px;
     cursor: pointer;
     border: none;
